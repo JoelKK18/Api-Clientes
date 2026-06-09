@@ -1,0 +1,29 @@
+[
+   {
+    "id": "123",
+    "nombre": "Juan Pérez",
+    "telefono": "6677112233",
+    "correo": "juan@correo.com",
+    "domicilio": "Principal 123 Col. Centro",
+    "credito": 5000,
+    "activo": true
+   },
+   {
+    "id": "124",
+    "nombre": "María Hernandez",
+    "telefono": "6677112864",
+    "correo": "maria@correo.com",
+    "domicilio": "Centro 123 Col. Sinaloa",
+    "credito": 7000,
+    "activo": true
+   },
+   {
+    "id": "125",
+    "nombre": "Elian de Jesus Lopez Carballo",
+    "telefono": "6675498321",
+    "correo": "Elian@correo.com",
+    "domicilio": "Afueras 876 Col. Sinaloa",
+    "credito": 10000,
+    "activo": false
+   }
+]
